@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c112e3db-c842-4b2d-8b54-1a496213ab3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter10/ex1/BindExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter10/ex2/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex1/ShippingCostCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex2/ShippingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex3/Pricing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex4/PricingFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex5/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter9/ex1/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter9/ex2/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter9/ex3/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter9/ex3/OrderValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex1/FunctionalPipelineExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex1/ReactivePipelineExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex1/rmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex2/RomanNumeralsReactive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex2/RomanNumeralsSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex3/ResultExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex4/ReactValidateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iY53BD7Zipnte0kitJfpxPqhfp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.BindExample.executor": "Run",
+    "Application.Example3.executor": "Run",
+    "Application.FunctionalPipelineExample.executor": "Run",
+    "Application.MapExample.executor": "Run",
+    "Application.Pricing.executor": "Run",
+    "Application.PricingFunctions.executor": "Run",
+    "Application.ReactValidateExample.executor": "Run",
+    "Application.ReactivePipelineExample.executor": "Run",
+    "Application.ResultExample.executor": "Run",
+    "Application.RomanNumeralsReactive.executor": "Run",
+    "Application.RomanNumeralsSimple.executor": "Run",
+    "Application.ShippingCostCalculator.executor": "Run",
+    "Application.ShippingService.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kainv/OneDrive/Рабочий стол/Projects/ddd-learning-draft",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ReactValidateExample">
+    <configuration name="ReactValidateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.railway_oriented_programming.ex4.ReactValidateExample" />
+      <module name="ddd-learning-draft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.railway_oriented_programming.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactivePipelineExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.railway_oriented_programming.ex1.ReactivePipelineExample" />
+      <module name="ddd-learning-draft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.railway_oriented_programming.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResultExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.railway_oriented_programming.ex3.ResultExample" />
+      <module name="ddd-learning-draft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.railway_oriented_programming.ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsReactive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.railway_oriented_programming.ex2.RomanNumeralsReactive" />
+      <module name="ddd-learning-draft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.railway_oriented_programming.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.railway_oriented_programming.ex2.RomanNumeralsSimple" />
+      <module name="ddd-learning-draft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.railway_oriented_programming.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReactValidateExample" />
+        <item itemvalue="Application.ResultExample" />
+        <item itemvalue="Application.RomanNumeralsReactive" />
+        <item itemvalue="Application.RomanNumeralsSimple" />
+        <item itemvalue="Application.ReactivePipelineExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c112e3db-c842-4b2d-8b54-1a496213ab3e" name="Changes" comment="" />
+      <created>1719654468366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719654468366</updated>
+      <workItem from="1719654469768" duration="8441000" />
+      <workItem from="1719668047923" duration="3639000" />
+      <workItem from="1719745545282" duration="13792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
