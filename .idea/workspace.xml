@@ -5,33 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c112e3db-c842-4b2d-8b54-1a496213ab3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter10/ex1/BindExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter10/ex2/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex1/ShippingCostCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex2/ShippingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex3/Pricing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex4/PricingFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter13/ex5/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter9/ex1/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter9/ex2/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter9/ex3/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ddd_made_functional/chapter9/ex3/OrderValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex1/FunctionalPipelineExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex1/ReactivePipelineExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex1/rmn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex2/RomanNumeralsReactive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex2/RomanNumeralsSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex3/ResultExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/railway_oriented_programming/ex4/ReactValidateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain_events/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain_events/CustomerBecamePreferred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain_events/CustomerBecamePreferredHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain_events/CustomerUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain_events/DomainEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain_events/Handles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain_events/IDomainEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain_events/article link" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +23,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -58,39 +46,44 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.BindExample.executor": "Run",
-    "Application.Example3.executor": "Run",
-    "Application.FunctionalPipelineExample.executor": "Run",
-    "Application.MapExample.executor": "Run",
-    "Application.Pricing.executor": "Run",
-    "Application.PricingFunctions.executor": "Run",
-    "Application.ReactValidateExample.executor": "Run",
-    "Application.ReactivePipelineExample.executor": "Run",
-    "Application.ResultExample.executor": "Run",
-    "Application.RomanNumeralsReactive.executor": "Run",
-    "Application.RomanNumeralsSimple.executor": "Run",
-    "Application.ShippingCostCalculator.executor": "Run",
-    "Application.ShippingService.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kainv/OneDrive/Рабочий стол/Projects/ddd-learning-draft",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BindExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalPipelineExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pricing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PricingFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReactValidateExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReactivePipelineExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RomanNumeralsReactive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RomanNumeralsSimple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShippingCostCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShippingService.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kainv/OneDrive/Рабочий стол/Projects/ddd-learning-draft&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.domain_events" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.ReactValidateExample">
     <configuration name="ReactValidateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.railway_oriented_programming.ex4.ReactValidateExample" />
@@ -185,7 +178,10 @@
       <updated>1719654468366</updated>
       <workItem from="1719654469768" duration="8441000" />
       <workItem from="1719668047923" duration="3639000" />
-      <workItem from="1719745545282" duration="13792000" />
+      <workItem from="1719745545282" duration="14363000" />
+      <workItem from="1719902216944" duration="65000" />
+      <workItem from="1720186762114" duration="41000" />
+      <workItem from="1720188141061" duration="2906000" />
     </task>
     <servers />
   </component>
